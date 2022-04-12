@@ -69,13 +69,6 @@ li a {
     position: center;
   }
 
-  mark {
-    font-weight: bold;
-    border-radius: 5px;
-    background-color: rgb(13, 163, 81);
-    padding: 3px 9px;
-  }
-
   h1 {
       text-align: center;
       font-size: 2rem;
@@ -83,7 +76,10 @@ li a {
 
   h2 {
       text-align: center;
-      font-size: 1rem;
+  }
+
+  h6 {
+    text-align: center;
   }
 
   hr {
