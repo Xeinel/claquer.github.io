@@ -129,4 +129,14 @@ li a {
 
   .centering {
       text-align: center;
+      font-size: 2rem;
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  .greyband {
+    background-color: #333;
+    color: white;
   }
