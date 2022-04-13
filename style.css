@@ -100,11 +100,21 @@ li a {
 
   .centering {
       text-align: center;
-      font-size: 2rem;
+      font-size: 1rem;
+  }
+
+  .centering_2 {
+    text-align: center;
+    font-size: 2rem;
   }
 
   .container {
     text-align: center;
+  }
+
+  .left_container {
+    padding-left: 30px;
+    text-align: left;
   }
 
   .greyband {
